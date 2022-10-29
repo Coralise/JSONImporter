@@ -1,0 +1,16 @@
+{
+  "name": "jsonimporter",
+  "version": "1.0.0",
+  "description": "JSON Firebase Importer",
+  "main": "importer.js",
+  "scripts": {
+    "start": "node importer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.13.0",
+    "firebase-admin": "^11.2.0"
+  }
+}
